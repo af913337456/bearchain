@@ -1,5 +1,5 @@
 
-Contract Telegram: @vpnprofee
+Contact Telegram: @vpnprofee
 
 ---
 
