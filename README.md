@@ -8,6 +8,7 @@
 2. 定时领取；
 3. 自动化切换收币地址。
 
+---
 
 The latest version of Bear Chain task automation leads the way, receiving test coin script programs. Contact email for purchase: ghostlinguanhong@gmail.com
 Lingshui website: https://bartio.faucet.berachain.com/
