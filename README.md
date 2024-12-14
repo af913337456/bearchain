@@ -1,4 +1,8 @@
 
+Contract Telegram: @vpnprofee
+
+---
+
 最新版 熊链 任务自动化领水，领取测试币脚本程序。需要购买的联系邮箱：ghostlinguanhong@gmail.com
 
 领水网站：https://bartio.faucet.berachain.com/
